@@ -3,9 +3,9 @@
 
 body {
   font-family: 'Manaspace', Fallback, sans-serif;
-  font-size: 2.0em;
+  font-size: 1.3em;
   color: white;
-  background-color: #2B2B2B;
+  background-color: #102031;
 }
 
 h1 {
@@ -14,4 +14,18 @@ h1 {
 
 h2 {
   color: #999;
+}
+
+.container {
+  display: flex;
+}
+
+.box {
+  border: 3px solid #fff;
+  margin: 10px;
+  padding: 30px;
+}
+
+.left {
+  height: 95vh;
 }

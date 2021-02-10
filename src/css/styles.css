@@ -1,0 +1,17 @@
+@font-face { font-family: JoystixMonospace; src: url(/src/fonts/joystix-monospace.ttf); }
+@font-face { font-family: Manaspace; src: url(/src/fonts/manaspc.ttf); }
+
+body {
+  font-family: 'Manaspace', Fallback, sans-serif;
+  font-size: 2.0em;
+  color: white;
+  background-color: #2B2B2B;
+}
+
+h1 {
+  font-family: 'JoystixMonospace', Fallback, sans-serif;
+}
+
+h2 {
+  color: #999;
+}
